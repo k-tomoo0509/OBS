@@ -141,9 +141,6 @@ void draw() {
       }
     }
   }
-
-  println("BUF:"+buf);
-  println("PLAYID:"+playId);
 }
 
 
